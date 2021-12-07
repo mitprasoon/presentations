@@ -26,3 +26,6 @@ This repository contains slide decks, images, and resources from various confere
   - Slides: [Beyond_Endpoint_Security_Using_Osquery_at_Scale.pdf]
   - Video: https://www.youtube.com/watch?v=vPuwPnr-pVY
   - Event Details: https://www.rsaconference.com/Library/presentation/USA/2021/beyond-endpoint-security-using-osquery-at-scale
+
+  [Beyond_Endpoint_Security_Using_Osquery_at_Scale.pdf]: https://github.com/mitprasoon/presentations/raw/main/2021-05-19_RSAC_2021_Beyond_Endpoint_Security_Using_Osquery_at_Scale/2021-05-19_RSAC_2021_Beyond_Endpoint_Security_Using_Osquery_at_Scale.pdf
+
