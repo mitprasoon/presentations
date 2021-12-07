@@ -17,3 +17,12 @@ This repository contains slide decks, images, and resources from various confere
 
 
 
+* **Beyond Endpoint Security Using Osquery at Scale**
+
+  RSA Conference 2021
+
+  Date 19th May, 2021
+
+  - Slides: [Beyond_Endpoint_Security_Using_Osquery_at_Scale.pdf]
+  - Video: https://www.youtube.com/watch?v=vPuwPnr-pVY
+  - Event Details: https://www.rsaconference.com/Library/presentation/USA/2021/beyond-endpoint-security-using-osquery-at-scale
