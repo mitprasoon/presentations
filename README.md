@@ -2,6 +2,18 @@
 
 This repository contains slide decks, images, and resources from various conferences I have taken part in.
 
+* **Building a cloud security monitoring and auditing framework**
+
+  c0c0n 2019
+
+  Date: 28th September, 2019
+
+  - Slides: [Building_a_cloud_security_monitoring_and_auditing_framework.pdf]
+
+  - Event Details: https://india.c0c0n.org/2019/agenda
+
+    [Building_a_cloud_security_monitoring_and_auditing_framework.pdf]: https://github.com/mitprasoon/presentations/blob/raw/2021-05-17_RSAC_2021_Multi_Cloud_Security_Monitoring_and_CIS_Benchmarks_Evaluation_at_Scale/2021-05-17_RSAC_2021_Multi_Cloud_Security_Monitoring_and_CIS_Benchmarks_Evaluation_at_Scale.pdf
+
 * **Multi-Cloud Security Monitoring and CIS Benchmarks Evaluation at Scale**
 
   RSA Conference 2021
